@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-nft/static/css/main.a127b051.chunk.css",
+    "main.js": "/test-nft/static/js/main.e95ca1c9.chunk.js",
+    "main.js.map": "/test-nft/static/js/main.e95ca1c9.chunk.js.map",
+    "runtime-main.js": "/test-nft/static/js/runtime-main.0563c2c9.js",
+    "runtime-main.js.map": "/test-nft/static/js/runtime-main.0563c2c9.js.map",
+    "static/js/2.eb8def02.chunk.js": "/test-nft/static/js/2.eb8def02.chunk.js",
+    "static/js/2.eb8def02.chunk.js.map": "/test-nft/static/js/2.eb8def02.chunk.js.map",
+    "static/js/3.7b7037d0.chunk.js": "/test-nft/static/js/3.7b7037d0.chunk.js",
+    "static/js/3.7b7037d0.chunk.js.map": "/test-nft/static/js/3.7b7037d0.chunk.js.map",
+    "index.html": "/test-nft/index.html",
+    "static/css/main.a127b051.chunk.css.map": "/test-nft/static/css/main.a127b051.chunk.css.map",
+    "static/js/2.eb8def02.chunk.js.LICENSE.txt": "/test-nft/static/js/2.eb8def02.chunk.js.LICENSE.txt",
+    "static/media/ethereum.cf8aa5e7.svg": "/test-nft/static/media/ethereum.cf8aa5e7.svg",
+    "static/media/jpegsniper.38cc1f9c.svg": "/test-nft/static/media/jpegsniper.38cc1f9c.svg",
+    "static/media/opensea.51ccbd5d.svg": "/test-nft/static/media/opensea.51ccbd5d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0563c2c9.js",
+    "static/js/2.eb8def02.chunk.js",
+    "static/css/main.a127b051.chunk.css",
+    "static/js/main.e95ca1c9.chunk.js"
+  ]
+}
